@@ -25,3 +25,7 @@ Sistema de automatización IoT para controlar luces y dispositivos eléctricos m
 - Cableado
 
 ## Capturas y video del proyecto: https://photos.app.goo.gl/4PppcHejwZoV4yHo8
+
+Autor
+
+Proyecto desarrollado por Mauri como proyecto personal de IoT.
